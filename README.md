@@ -8,13 +8,13 @@ This is a simple command-line calculator built using Node.js, leveraging the Inq
 This CLI calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division right from the terminal. It provides a user-friendly interface, thanks to the Inquirer package, and enhances the output with colorful and styled text using Chalk.
 
 ## Features
-Addition 
+- Addition 
 
-Subtraction
+- Subtraction
 
-Multiplication
+- Multiplication
 
-Division
+- Division
 
 ## Usage
 
