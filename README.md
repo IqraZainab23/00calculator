@@ -20,8 +20,9 @@ Division
 
 Run the calculator:
 
-`` npx @iqrazainab/00calculator
-``
+```bash
+ npx @iqrazainab/00calculator
+```
 
 Follow the prompt to perform calculations with style!
 
